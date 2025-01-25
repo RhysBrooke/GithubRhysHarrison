@@ -23,8 +23,13 @@
       "source": "registry",
       "dependencies": {
         "com.unity.burst": "1.8.17",
+<<<<<<< HEAD
         "com.unity.test-framework": "1.4.5",
         "com.unity.nuget.mono-cecil": "1.11.4",
+=======
+        "com.unity.nuget.mono-cecil": "1.11.4",
+        "com.unity.test-framework": "1.4.5",
+>>>>>>> 4ba0fe6f6a90d6eb7f3f6d6cf97c7c59e2f665cd
         "com.unity.test-framework.performance": "3.0.3"
       },
       "url": "https://packages.unity.com"
@@ -168,9 +173,9 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.modules.audio": "1.0.0",
         "com.unity.modules.director": "1.0.0",
         "com.unity.modules.animation": "1.0.0",
+        "com.unity.modules.audio": "1.0.0",
         "com.unity.modules.particlesystem": "1.0.0"
       },
       "url": "https://packages.unity.com"
